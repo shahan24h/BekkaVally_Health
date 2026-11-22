@@ -1,0 +1,8 @@
+# Never commit household-level survey data
+*.xlsx
+*.xls
+*.csv
+results/
+__pycache__/
+.venv/
+.env
